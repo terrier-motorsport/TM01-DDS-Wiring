@@ -69,9 +69,9 @@
   },
   "git": {
     "repo_password": "",
-    "repo_type": "",
+    "repo_type": "https",
     "repo_username": "",
-    "ssh_key": ""
+    "ssh_key": "C:\\Users\\jason\\.ssh\\id_rsa"
   },
   "meta": {
     "filename": "DDS_wiring.kicad_prl",
